@@ -1,0 +1,15 @@
+{
+  "name": "azureorders",
+  "version": "0.0.1",
+  "description": "A project to test selenium for Javascript in order to create a Google Apps Script that parses orders size and weight with a URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Holsenbeck",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.21.0",
+    "weighable": "^0.2.0"
+  }
+}
